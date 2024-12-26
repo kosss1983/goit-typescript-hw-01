@@ -1,6 +1,6 @@
 type Details = {
-  createAt: object;
-  updateAt: object;
+  createAt: Date;
+  updateAt: Date;
 };
 
 type Account = {
